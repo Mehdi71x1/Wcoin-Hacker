@@ -1,7 +1,7 @@
 # wcoin
 ##### a tool that helps to get unlimited amount of wcoin airdrop
-#### use Termux or Terminal  
-
+##### `pkg update && upgrade -y`
+##### `pkg install python rust git -y`
 ##### `git clone https://github.com/Mehdi71x1/Wcoin-Hacker.git`
 ##### `cd wcoin`
 ##### `pip install -r requirements.txt`
