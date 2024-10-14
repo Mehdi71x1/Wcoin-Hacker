@@ -3,7 +3,7 @@
 ##### `pkg update && upgrade -y`
 ##### `pkg install python rust git -y`
 ##### `git clone https://github.com/Mehdi71x1/Wcoin-Hacker.git`
-##### `cd wcoin`
+##### `cd Wcoin-Hacker`
 ##### `pip install -r requirements.txt`
 ##### `python3 wcoin.py`
 
